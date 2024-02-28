@@ -1,4 +1,4 @@
-public class Tff extends Voleyball {
+public class TVF extends Voleyball {
     // sadece tactics sınıfı geldi. Çünkü rules sınıfı sabit ve değiştirilemez.
     @Override
     public void tactics() {

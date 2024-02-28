@@ -14,7 +14,7 @@ public class Main {
         System.out.println("***********************");
 
         // abstract sınıf örnek.
-        Tff tff = new Tff();
+        TVF tff = new TVF();
 
         tff.rules();
         tff.tactics();
